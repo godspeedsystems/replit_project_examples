@@ -1,4 +1,4 @@
 type: express
 port: 3000
 docs:
-  endpoint: /
+  endpoint: /api-docs
