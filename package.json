@@ -19,9 +19,9 @@
 	"dependencies": {
 		"@godspeedsystems/api-generator": "latest",
 		"@godspeedsystems/core": "latest",
+		"@godspeedsystems/plugins-axios-as-datasource": "latest",
 		"@godspeedsystems/plugins-express-as-http": "latest",
 		"@godspeedsystems/plugins-prisma-as-datastore": "latest",
-		"@godspeedsystems/plugins-axios-as-datasource": "latest",
 		"@prisma/client": "^5.2.0",
 		"config": "^3.3.9",
 		"dotenv": "^16.0.3",
